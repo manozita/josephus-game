@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=No
+comment0.text=\r\n\ No\ da\ lista\ duplamente\ ligada\r\n
+comment1.params=conteudo\ id
+comment1.target=No(java.lang.Object,\ long)
+comment10.params=
+comment10.target=java.lang.String\ toString()
+comment2.params=conteudo
+comment2.target=void\ setConteudo(java.lang.Object)
+comment2.text=\r\n\ setters\ e\ getters\r\n
+comment3.params=proximo
+comment3.target=void\ setProximo(No)
+comment4.params=anterior
+comment4.target=void\ setAnterior(No)
+comment5.params=
+comment5.target=java.lang.Object\ getConteudo()
+comment6.params=
+comment6.target=No\ getProximo()
+comment7.params=
+comment7.target=No\ getAnterior()
+comment8.params=id
+comment8.target=void\ setId(long)
+comment8.text=\r\n\ M\u00E9todo\ setId\r\n\r\n\ @param\ id\ Um\ par\u00E2metro\r\n
+comment9.params=
+comment9.target=long\ getId()
+comment9.text=\r\n\ M\u00E9todo\ getId\r\n\r\n\ @return\ O\ valor\ de\ retorno\r\n
+numComments=11

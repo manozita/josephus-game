@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Pessoa
+comment1.params=status\ pos
+comment1.target=Pessoa(boolean,\ int)
+comment1.text=\r\n\ Construtor\ para\ objetos\ da\ classe\ Pessoa\r\n
+comment2.params=status
+comment2.target=void\ setStatus(boolean)
+comment3.params=
+comment3.target=boolean\ getStatus()
+numComments=4

@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=IVetDin
+comment0.text=\r\n\ Escreva\ uma\ descri\u00E7\u00E3o\ da\ classe\ IVetDin\ aqui.\r\n\ \r\n\ @author\ (seu\ nome)\ \r\n\ @version\ (um\ n\u00FAmero\ da\ vers\u00E3o\ ou\ uma\ data)\r\n
+comment1.params=a
+comment1.target=void\ adicionar(java.lang.Object)
+comment2.params=i
+comment2.target=java.lang.Object\ remover(int)
+comment3.params=
+comment3.target=boolean\ estaVazia()
+comment4.params=i
+comment4.target=java.lang.Object\ buscar(int)
+comment5.params=
+comment5.target=int\ getQtd()
+numComments=6

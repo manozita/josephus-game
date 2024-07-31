@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.target=IListaDuplamenteLigadaCircular
+comment0.text=\r\n\ Escreva\ uma\ descri\u00E7\u00E3o\ da\ classe\ IListaDuplamenteLigadaCircular\ aqui.\r\n\ \r\n\ @author\ (seu\ nome)\ \r\n\ @version\ (um\ n\u00FAmero\ da\ vers\u00E3o\ ou\ uma\ data)\r\n
+comment1.params=
+comment1.target=boolean\ estaVazia()
+comment10.params=
+comment10.target=java.lang.String\ toStringDoFim()
+comment2.params=novo
+comment2.target=void\ inserirInicio(java.lang.Object)
+comment3.params=novo
+comment3.target=void\ inserirFim(java.lang.Object)
+comment4.params=chave\ novo
+comment4.target=boolean\ inserirApos(long,\ java.lang.Object)
+comment5.params=
+comment5.target=java.lang.Object\ removerInicio()
+comment6.params=
+comment6.target=java.lang.Object\ removerFim()
+comment7.params=chave
+comment7.target=java.lang.Object\ remover(long)
+comment8.params=i
+comment8.target=java.lang.Object\ buscar(int)
+comment9.params=
+comment9.target=int\ getQtdNos()
+numComments=11

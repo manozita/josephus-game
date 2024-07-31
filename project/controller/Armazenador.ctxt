@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Armazenador
+comment0.text=\r\n\ Classe\ Armazenador\r\n\ A\ classe\ Armazenador\ contem\ uma\ lista\ duplamente\ ligada\ circular\ com\ todos\ os\ individuos\r\n\ Armazena\ os\ mortos\ em\ um\ vetor\ dinamico\r\n
+comment1.params=qtd\ m
+comment1.target=void\ simular(int,\ int)
+comment1.text=\r\n\ M\u00E9todo\ simular\r\n\r\n\ @int\ qtd\ -\ par\u00E2metro\ para\ quantidade\ de\ Pessoas\r\n\ @int\ m\ -\ par\u00E2metro\ para\ contador\ de\ passos\r\n
+comment2.params=qtd
+comment2.target=void\ criarPessoas(int)
+comment2.text=\r\n\ M\u00E9todo\ criarPessoas\r\n\r\n\ @int\ qtd\ -\ par\u00E2metro\ para\ quantidade\ de\ Pessoas\r\n
+comment3.params=qtd\ m
+comment3.target=void\ matarPessoas(int,\ int)
+comment3.text=\r\n\ M\u00E9todo\ matarPessoas\r\n\r\n\ @int\ qtd\ -\ par\u00E2metro\ para\ quantidade\ de\ Pessoas\r\n\ @int\ m\ -\ par\u00E2metro\ para\ contador\ de\ passos\r\n
+comment4.params=qtd
+comment4.target=void\ ultimoPessoa(int)
+comment4.text=\r\n\ M\u00E9todo\ ultimoPessoa\r\n\r\n\ @int\ qtd\ -\ par\u00E2metro\ para\ quantidade\ de\ Pessoas\r\n
+comment5.params=
+comment5.target=void\ inicializarArray()
+comment5.text=\r\n\ M\u00E9todo\ inicializarArray\r\n\r\n
+numComments=6

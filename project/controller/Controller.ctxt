@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Controller
+comment0.text=\r\n\ Escreva\ uma\ descri\u00E7\u00E3o\ da\ classe\ Controller\ aqui.\r\n\ \r\n\ @author\ (seu\ nome)\ \r\n\ @version\ (um\ n\u00FAmero\ da\ vers\u00E3o\ ou\ uma\ data)\r\n
+comment1.params=qtd\ m
+comment1.target=void\ simular(int,\ int)
+comment1.text=\r\n\ M\u00E9todo\ simular\r\n\r\n\ @int\ qtd\ -\ par\u00E2metro\ para\ quantidade\ de\ objetos\r\n\ @int\ pas\ -\ par\u00E2metro\ para\ contador\ de\ passos\r\n
+comment2.params=
+comment2.target=listaLigada.IVetDin\ getVetor()
+comment2.text=\r\n\ M\u00E9todo\ getVetor\r\n\r\n\ @retorna\ um\ VetDin\ que\ contem\ a\ ordem\ de\ mortos\r\n
+numComments=3
